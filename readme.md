@@ -18,15 +18,15 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 
 ## Rececncy
 
-![Recency](output\recency.png)
+![Recency](https://github.com/BitlaSravyaReddy/Customer_segmentation_project/blob/master/output/recency.png)
 
 ## Frequency
 
-![Frequency](output\frequency.png)
+![Frequency](https://github.com/BitlaSravyaReddy/Customer_segmentation_project/blob/master/output/frequency.png)
 
 ## Monetary value
 
-![Monetary-value](output\monetary.png)
+![Monetary-value](https://github.com/BitlaSravyaReddy/Customer_segmentation_project/blob/master/output/monetary.png)
 
 
 
